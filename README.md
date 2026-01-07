@@ -10,7 +10,7 @@ This is a global dataset of plant carbon stocks and fluxes for terrestrial, fres
 - Cebrián J, Lartigue J (2004) Patterns of herbivory and decomposition in aquatic and terrestrial ecosystems. *Ecological Monographs* 74:237–259. https://doi.org/10.1890/03-4019.
 - Cebrián J (2004) Role of first-order consumers in ecosystem carbon flow. *Ecology Letters* 7:232–240. https://doi.org/10.1111/j.1461-0248.2004.00574.x.
 - Cebrián J (2004) Grazing on benthic primary producers. In: Nielsen SL, Banta GT, Pedersen MF (eds) *Estuarine nutrient cycling: the influence of primary producers*. Springer, Dordrecht, pp. 153–185. https://doi.org/10.1007/978-1-4020-3021-5_6.
-- Cebrián J, Shurin JB, Borer ET, Cardinale BJ, Ngai JT, Smith MD, Fagan WF (2009) Producer nutritional quality controls ecosystem trophic structure. PloS One 4:e4929. https://doi.org/10.1371/journal.pone.0004929.
+- Cebrián J, Shurin JB, Borer ET, Cardinale BJ, Ngai JT, Smith MD, Fagan WF (2009) Producer nutritional quality controls ecosystem trophic structure. *PloS One* 4:e4929. https://doi.org/10.1371/journal.pone.0004929.
 - Lartigue J, Cebrián J (2009) Ecosystem productivity and carbon flows: patterns across ecosystems. In: Levin SA, Carpenter SR, Godfray HCJ, Kinzig AP, Loreau M, Losos JB, Walker B, Wilcove DS (eds) *The Princeton Guide to Ecology*. Princeton University Press, Princeton, pp. 320–329. https://doi.org/10.1515/9781400833023.320.
 - Cebrián J (2015) Individuals scale up carbon flow in ecosystems. *Proceedings of the National Academy of Sciences* 112:2303–2304. https://doi.org/10.1073/pnas.1500705112.
 
